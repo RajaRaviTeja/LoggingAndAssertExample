@@ -1,0 +1,10 @@
+[INFO ] 2019-08-11 10:43:26.277 [main] Browser - getBrowserObject
+[INFO ] 2019-08-11 10:43:31.179 [main] GoogleTest - GoogleTest-Search test
+[INFO ] 2019-08-11 10:43:31.179 [main] Browser - getBrowserObject
+[INFO ] 2019-08-11 10:43:31.212 [main] BasePage - launching url  https://www.google.com/
+[INFO ] 2019-08-11 10:44:39.336 [main] GoogleTest2 - GoogleTest-Search test2
+[INFO ] 2019-08-11 10:44:39.339 [main] Browser - getBrowserObject
+[INFO ] 2019-08-11 10:44:44.488 [main] Browser - getBrowserObject
+[INFO ] 2019-08-11 10:44:44.521 [main] BasePage - launching url  https://www.google.com/
+[INFO ] 2019-08-11 10:44:49.205 [main] BasePage - launching url  https://www.google.com/
+[INFO ] 2019-08-11 10:44:51.950 [main] BasePage - launching url  https://www.google.com/

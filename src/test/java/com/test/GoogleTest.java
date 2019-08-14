@@ -35,6 +35,10 @@ public class GoogleTest extends BasePage {
 		//obj.searchInGoogle("blue berry");
 		
 		softAssert.assertAll();
+		
+		driver.quit();
+		
+		
 	}
 	
 }

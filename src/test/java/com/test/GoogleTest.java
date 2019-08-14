@@ -22,7 +22,7 @@ public class GoogleTest extends BasePage {
 	
 		GooglePageObjects obj=PageFactory.initElements(Browser.getBrowserObject(),GooglePageObjects.class);
 		softAssert.assertEquals("test", "test");
-		softAssert.assertEquals("Test", "TesT","Both Values DOnot Match");
+		softAssert.assertEquals("Test", "Test","Both Values DOnot Match");
 		softAssert.assertNotEquals("actual", "actual", "Both values are same so its a fail");
 		softAssert.assertEquals(true, false, "Expected both as true but its not");
 		softAssert.assertSame(1, 2, "Both are not same");

@@ -1,8 +1,11 @@
 package com.test;
 
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+//import org.apache.logging.log4j.LogManager;
+//import org.apache.logging.log4j.Logger;
+  import org.apache.log4j.Logger;
+
+
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
@@ -13,7 +16,8 @@ import com.banking.resources.Browser;
 public class GoogleTest extends BasePage {
 	@Test
 	public void search(){
-		Logger logger =LogManager.getLogger(GoogleTest.class);
+		//Logger logger =LogManager.getLogger(GoogleTest.class);
+		Logger logger = Logger.getLogger(GoogleTest.class);
 		logger.info("GoogleTest-Search test");
 	
 		GooglePageObjects obj=PageFactory.initElements(Browser.getBrowserObject(),GooglePageObjects.class);

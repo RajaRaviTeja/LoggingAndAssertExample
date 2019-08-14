@@ -4,8 +4,10 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+//import org.apache.logging.log4j.LogManager;
+//import org.apache.logging.log4j.Logger;
+import org.apache.log4j.Logger;
+
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -16,7 +18,7 @@ import org.testng.asserts.SoftAssert;
 
 public class BasePage {
 	//Logger.class.getName()
-	Logger log= LogManager.getLogger(BasePage.class);
+	Logger log= Logger.getLogger(BasePage.class);
 	public static WebDriver driver=Browser.getBrowserObject();
 	public static SoftAssert softAssert=Browser.softAssert;
 	//public LoginPageObjects  lpObj;

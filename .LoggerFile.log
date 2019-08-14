@@ -1,0 +1,12 @@
+2019-08-14 12:14:24.213 IST  INFO     Browser:30 - getBrowserObject
+2019-08-14 12:14:39.899 IST  INFO     GoogleTest:21 - GoogleTest-Search test
+2019-08-14 12:14:39.899 IST  INFO     Browser:30 - getBrowserObject
+2019-08-14 12:14:39.964 IST  INFO     BasePage:48 - launching url  https://www.google.com/
+2019-08-14 16:30:31.551 IST  INFO     Browser:30 - getBrowserObject
+2019-08-14 16:30:49.697 IST  INFO     GoogleTest:21 - GoogleTest-Search test
+2019-08-14 16:30:49.697 IST  INFO     Browser:30 - getBrowserObject
+2019-08-14 16:30:49.764 IST  INFO     BasePage:48 - launching url  https://www.google.com/
+2019-08-14 16:31:35.279 IST  INFO     Browser:30 - getBrowserObject
+2019-08-14 16:31:51.097 IST  INFO     GoogleTest:21 - GoogleTest-Search test
+2019-08-14 16:31:51.098 IST  INFO     Browser:30 - getBrowserObject
+2019-08-14 16:31:51.152 IST  INFO     BasePage:48 - launching url  https://www.google.com/

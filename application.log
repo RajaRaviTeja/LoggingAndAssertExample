@@ -1,0 +1,6 @@
+2019-08-14 18:50:09,840  INFO [main] GoogleTest:21 - GoogleTest-Search test2
+2019-08-14 18:50:09,849  INFO [main] Browser:30 - getBrowserObject
+2019-08-14 18:50:31,278  INFO [main] Browser:30 - getBrowserObject
+2019-08-14 18:50:31,328  INFO [main] BasePage:48 - launching url  https://www.google.com/
+2019-08-14 18:50:39,236  INFO [main] BasePage:48 - launching url  https://www.google.com/
+2019-08-14 18:50:43,145  INFO [main] BasePage:48 - launching url  https://www.google.com/
